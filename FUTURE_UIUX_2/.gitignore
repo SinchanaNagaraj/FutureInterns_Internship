@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.npm/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build outputs
+dist/
+build/
+.env
+
+# Editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+lerna-debug.log*
